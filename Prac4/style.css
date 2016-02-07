@@ -1,0 +1,45 @@
+body {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+.container {
+	max-width: 600px;
+	width: 95%;
+	margin: 0 auto;
+}
+
+img {
+	max-width: 400px;
+	width: 70%;
+	height: auto;
+}
+
+img.circle {
+	border-radius: 50%;
+	float: right;
+}
+
+a, a:visited {
+	text-decoration: none;
+	color: rgb(0, 0, 238);
+	letter-spacing: 1px;
+	word-spacing: 2px;
+}
+
+a:hover {
+	color: black;
+}
+
+ul, ol {
+	list-style: none;
+	padding: 0;
+}
+
+#projects-list li {
+	font-size: 14px;
+}
+
+#projects-list li a {
+	font-size: 16px;
+}

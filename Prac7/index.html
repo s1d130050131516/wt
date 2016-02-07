@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Calculator using Buttons</title>
+	</head>
+	<style>
+		.container {
+			width: 95%;
+			max-width: 600px;
+			margin: 0 auto;
+		}
+	</style>
+	<body>
+		<div class="container">
+			<h1>Calculator</h1>
+			<div>
+				<label for="operand1">First operand: </label>
+				<input type="number" placeholder="Enter a number" id="operand1">
+			</div>
+			<div>
+				<label for="operand2">Second operand: </label>
+				<input type="number" placeholder="Enter a number" id="operand2">
+			</div>
+			<div style="margin-top: 20px;">
+				<button id="add">Add</button>
+				<button id="subtract">Subtract</button>
+				<button id="multiply">Multiply</button>
+				<button id="divide">Divide</button>
+			</div>
+			<div>
+				<h4 id="answer"></h4>
+			</div>
+		</div>
+
+	<script src="script.js" type="text/javascript"></script>
+	</body>
+</html>

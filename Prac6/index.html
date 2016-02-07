@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Questions</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<script type="text/javascript" src="script.js"></script>
+		
+		<div id="container">
+			<p id="question"></p>
+			<input type="text" id="answer" placeholder="Answer" />
+			<button id="submit" onclick="ans()">Submit</button>
+			<p>Attempt #<span id="attempts">1</span></p>
+			<div id="errorDiv" class="hidden">
+				<p id="error">Wrong answer.</p>
+				<button id="skip" onclick="skip()">Skip</button>
+			</div>
+		</div>
+
+	</body>
+</html>
