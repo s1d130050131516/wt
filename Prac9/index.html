@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Evaluating Expressions</title>
+		<style>
+			.container {
+				width: 80%;
+				max-width: 600px;
+				margin: 20px auto;
+			}
+		</style>
+		<script src="script.js"></script>
+	</head>
+	<body>
+		<div class="container">
+			<form action="#">
+				<label for="first">Enter the expression: </label>
+				<input type="text" id="first" placeholder="Format: a operator b" onblur="calculate()" />
+				<p>Operands should be integers. Operators supported: +, -, *, /, %</p>
+				<label for="second">The result is: </label>
+				<input type="text" id="second" placeholder="Remove focus for result">
+			</form>
+		</div>
+	</body>
+</html>

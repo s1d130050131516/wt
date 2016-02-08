@@ -1,3 +1,14 @@
+### [View Practical 1](http://s1d130050131516.github.io/wt/Prac1/)
+### [View Practical 2](http://s1d130050131516.github.io/wt/Prac2/)
+### [View Practical 3](http://s1d130050131516.github.io/wt/Prac3/)
+### [View Practical 4](http://s1d130050131516.github.io/wt/Prac4/)
+### [View Practical 5](http://s1d130050131516.github.io/wt/Prac5/)
+### [View Practical 6](http://s1d130050131516.github.io/wt/Prac6/)
+### [View Practical 7](http://s1d130050131516.github.io/wt/Prac7/)
+### [View Practical 8](http://s1d130050131516.github.io/wt/Prac8/)
+### [View Practical 9](http://s1d130050131516.github.io/wt/Prac9/)
+### [View Practical 10](http://s1d130050131516.github.io/wt/Prac10/)
+
 For first time users:
 ---------------------
 Create a github account. (user id must be s+div+batch+enrollment_number eg. s2b1926456780)

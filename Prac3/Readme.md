@@ -1,3 +1,5 @@
+### [View Practical 3](http://s1d130050131516.github.io/wt/Prac3/)
+
 #Practical 3
 ============
 Create a web page using HTML frame as shown in following figure. Create different HTML pages and load pages in appropriate sections. 

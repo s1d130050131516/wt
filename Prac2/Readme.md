@@ -1,3 +1,5 @@
+### [View Practical 2](http://s1d130050131516.github.io/wt/Prac2/)
+
 #Practical 2
 ============
 Using table tag create following table structure: 
