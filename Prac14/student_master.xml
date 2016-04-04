@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE library [
+	<!ELEMENT student (id, name, department, mobile, email, limit)>
+	<!ELEMENT id (#PCDATA)>
+	<!ELEMENT name (first, middle, last)>
+	<!ELEMENT first (#PCDATA)>
+	<!ELEMENT middle (#PCDATA)>
+	<!ELEMENT last (#PCDATA)>
+	<!ELEMENT department (#PCDATA)>
+	<!ELEMENT mobile (#PCDATA)>
+	<!ELEMENT email (#PCDATA)>
+	<!ELEMENT limit (#PCDATA)>
+]>
+
+<library>
+	<student>
+		<id>1</id>
+		<name>
+			<first>John</first>
+			<middle>A</middle>
+			<last>Doe</last>
+		</name>
+		<department>CSE</department>
+		<mobile>1234567890</mobile>
+		<email>johndoe@gmail.com</email>
+		<limit>3</limit>
+	</student>
+
+	<student>
+		<id>2</id>
+		<name>
+			<first>Jane</first>
+			<middle>B</middle>
+			<last>Doe</last>
+		</name>
+		<department>CSE</department>
+		<mobile>3214567890</mobile>
+		<email>janedoe@gmail.com</email>
+		<limit>3</limit>
+	</student>
+
+	<student>
+		<id>3</id>
+		<name>
+			<first>John</first>
+			<middle>C</middle>
+			<last>Smith</last>
+		</name>
+		<department>EME</department>
+		<mobile>6543210987</mobile>
+		<email>johncsmith@yahoo.com</email>
+		<limit>5</limit>
+	</student>
+</library>
