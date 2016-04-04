@@ -1,3 +1,6 @@
 ![alt tag](https://github.com/s1d130050131516/wt/blob/master/Prac12/1.png)
-![alt tag](https://github.com/s1d130050131516/wt/blob/master/Prac12/1.png)
-![alt tag](https://github.com/s1d130050131516/wt/blob/master/Prac12/1.png)
+![alt tag](https://github.com/s1d130050131516/wt/blob/master/Prac12/2.png)
+![alt tag](https://github.com/s1d130050131516/wt/blob/master/Prac12/3.png)
+![alt tag](https://github.com/s1d130050131516/wt/blob/master/Prac12/4.png)
+![alt tag](https://github.com/s1d130050131516/wt/blob/master/Prac12/5.png)
+![alt tag](https://github.com/s1d130050131516/wt/blob/master/Prac12/6.png)
