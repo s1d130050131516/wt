@@ -7,7 +7,12 @@
 ### [View Practical 7](http://s1d130050131516.github.io/wt/Prac7/)
 ### [View Practical 8](http://s1d130050131516.github.io/wt/Prac8/)
 ### [View Practical 9](http://s1d130050131516.github.io/wt/Prac9/)
-### [View Practical 10](http://s1d130050131516.github.io/wt/Prac10/)
+### [View Practical 11](http://s1d130050131516.github.io/wt/Prac11/)
+### [View Practical 12](http://s1d130050131516.github.io/wt/Prac12/)
+### [View Practical 13](https://github.com/s1d130050131516/wt/tree/master/Prac12)
+### [View Practical 14](http://s1d130050131516.github.io/wt/Prac14/)
+### [View Practical 15](http://s1d130050131516.github.io/wt/Prac15/)
+### [View Practical 16](http://s1d130050131516.github.io/wt/Prac16/)
 
 For first time users:
 ---------------------
