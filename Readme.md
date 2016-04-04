@@ -9,10 +9,10 @@
 ### [View Practical 9](http://s1d130050131516.github.io/wt/Prac9/)
 ### [View Practical 11](http://s1d130050131516.github.io/wt/Prac11/)
 ### [View Practical 12](https://github.com/s1d130050131516/wt/tree/master/Prac12)
-### [View Practical 13](http://s1d130050131516.github.io/wt/Prac13/)
-### [View Practical 14](http://s1d130050131516.github.io/wt/Prac14/)
-### [View Practical 15](http://s1d130050131516.github.io/wt/Prac15/)
-### [View Practical 16](http://s1d130050131516.github.io/wt/Prac16/)
+### [View Practical 13](http://s1d130050131516.github.io/wt/Prac13/student_master.xml)
+### [View Practical 14](http://s1d130050131516.github.io/wt/Prac14/student_master.xml)
+### [View Practical 15](http://s1d130050131516.github.io/wt/Prac15/student_master.xml)
+### [View Practical 16](http://s1d130050131516.github.io/wt/Prac16/student_master.xml)
 
 For first time users:
 ---------------------
