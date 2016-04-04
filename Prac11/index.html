@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Student Registration</title>
+		<style>
+			.container {
+				width: 80%;
+				max-width: 600px;
+				margin: 20px auto;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="container">
+			<form action="#" id="registrationForm" method="post">
+				<label for="name">Name: </label>
+				<input type="text" name="name" id="name">
+				<br />
+				<label for="password">Password: </label>
+				<input type="password" name="password" id="password" maxlength="12">
+				<br />
+				<label for="phone">Phone: </label>
+				<input type="number" name="phone" id="phone" maxlength="10">
+				<br />
+				<label for="email">Email: </label>
+				<input type="email" name="email" id="email">
+				<br />
+				<label for="birthday">Birthday: </label>
+				<input type="text" placeholder="DD/MM/YYYY" name="birthday" id="birthday">
+				<br />
+				<label for="pincode">Pincode: </label>
+				<input type="number" name="pincode" id="pincode" maxlength="6">
+				<br />
+				<button type="submit" id="submit">Register</button>
+			</form>
+		</div>
+		<script src="main.js"></script>
+	</body>
+</html>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://localhost"
+	xmlns="http://localhost"
+	elementFormDefault="qualified">
+	<xs:element name="library">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="student" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="id" type="xs:integer"></xs:element>
+							<xs:element name="name">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="first" type="xs:string"></xs:element>
+										<xs:element name="middle" type="xs:string"></xs:element>
+										<xs:element name="last" type="xs:string"></xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="department" type="xs:string"></xs:element>
+							<xs:element name="mobile" type="xs:integer"></xs:element>
+							<xs:element name="email"  type="xs:string"></xs:element>
+							<xs:element name="limit" type="xs:integer"></xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+</xs:schema>
